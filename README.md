@@ -12,4 +12,6 @@ Now, the bank is looking for your help in identifying customers that could show 
 
 Customer details (gender, age, region etc.) Details of his/her relationship with the bank (Channel_Code,Vintage, 'Avg_Asset_Value etc.)
 
-Evaluation Metric: roc_auc_score. My score was 0.8511
+Evaluation Metric: roc_auc_score. 
+
+My roc_auc_score was 0.8511
